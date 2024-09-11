@@ -9,3 +9,7 @@ pip install matplotlib
 pip install numpy
 
 pip install tikzplotlib
+
+# Run the program
+
+python main.py
