@@ -5,5 +5,7 @@ The program is intended to run on Ubuntu linux, running it on other OS might cau
 # Install dependencies:
 
 pip install matplotlib
+
 pip install numpy
+
 pip install tikzplotlib
